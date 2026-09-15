@@ -1,44 +1,28 @@
-<!-- PORTFOLIO PROJECT PROFILE: maintained by the repository owner -->
+# skycoin_production — Historical Placeholder
 
-## Project profile and code-audit snapshot
+**Status: inactive placeholder / archival pointer.**
 
-**What this is:** **skycoin_production** is a public repository described as: “A production-ready ecosystem for Skycoin with advanced features, integrated database, and OAuth. · Built with Manus #SkyCoin4444 #AI #Blockchain #DevOps #Innovation” Its dominant language signals are **No dominant programming-language extension was detected in the sampled repository tree.**.
+This repository does not contain a production application and should not be evaluated as one. The current tree has no application source, automated tests, CI workflow, deployable service, database implementation, or verified production runtime.
 
-**Why it has value:** Its value is best understood through the implementation evidence currently present in the repository: **6 tracked files** were observed in the shallow audit, with the source structure and existing documentation providing the project’s specific context. This README does not treat a prototype, experiment, or archive as a production system without supporting evidence.
+Earlier template metadata overstated the repository's maturity and included fake-success package scripts. Those artifacts are being removed rather than preserved as misleading implementation evidence.
 
-**Implementation evidence:** No test-related file was detected by filename heuristics.; 1 dependency or package manifest(s) detected; No CI, build, Docker, or infrastructure signal was detected by the audit.; and 2 documentation or governance file(s) detected. Test filenames observed include none detected. Dependency or package files include `package.json`. Build, CI, or infrastructure signals include none detected.
+## Canonical SKYCOIN4444 work
 
-**Current status:** The repository is tracked on the `main` branch. The existing source tree, configuration, tests, workflows, and documentation remain authoritative for supported behavior and maturity. A code audit is not a production-readiness certification, and the presence of a test or workflow file does not establish that all checks pass.
+Use the actively maintained repositories for implementation evidence, including:
 
-**Relationship to the wider portfolio:** This repository is one focused component of the broader Skyler Blue Spillers portfolio across AI, software engineering, cloud and DevOps, cybersecurity, blockchain, finance, education, social systems, and creative work. It may provide a service boundary, implementation pattern, experiment, archive, or reusable idea for related repositories. Treat repositories as technical dependencies only where documented interfaces and verified project requirements support that relationship.
+- `skylerblue333/skycoin4444` — primary coordination and platform repository
+- `skylerblue333/Skycoin-Protocol-v44` — protocol-focused TypeScript implementation
 
-**Quality and security note:** No obvious secret-like pattern was detected by the limited static scan; this is not a substitute for a security audit. No TODO/FIXME marker was detected in the scanned text files.
+A repository should only claim production readiness when its source, tests, CI, deployment evidence, and operational verification support that claim.
 
----
+## Why this repository remains
 
-# Skycoin_Production
+This repository is retained only as historical project-name continuity. It may be archived in GitHub repository settings once no links or external references depend on it.
 
-![GitHub stars](https://img.shields.io/github/stars/skylerblue333/skycoin_production?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/skylerblue333/skycoin_production?style=flat-square)
+## Contribution policy
 
-## 🌟 Overview
-**skycoin_production** is a professional-grade project within the **SkyCoin4444** ecosystem. It focuses on delivering high-value solutions in the domain of **Software Development**.
+Do not add generic templates or placeholder build scripts here. New engineering work belongs in an active repository with a defined product boundary, native toolchain, tests, CI, and documented limitations.
 
-## 🚀 Key Features
-- **Scalable Architecture**: Designed for enterprise-level growth and performance.
-- **Modern Standards**: Implements best practices for clean code and maintainability.
-- **Robust Integration**: Built to work seamlessly within modern cloud-native environments.
+## License
 
-## 🛠️ Technology Stack
-- **Primary Domain**: Software Development
-- **Ecosystem**: SkyCoin4444 Digital Platform
-
-## 📂 Structure
-The project is organized into a modular structure to ensure clarity and ease of development.
-
-## 👨‍💻 Author
-**Skyler Blue Spillers**
-*Professional Chess Player & Software Engineer*
-
----
-*Powered by SkyCoin4444*
+See `LICENSE`.
